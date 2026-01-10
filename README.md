@@ -2,7 +2,6 @@
 
 ## Walmart Social Media Listener
 
-🚀 **Live Demo:** https://socialmedialistener.netlify.app/  
 📋 **Project Timeline & Milestones (Notion):** https://www.notion.so/LLM-powered-Social-Listening-System-28abe5c2ca3180e7a35defa1c99e44e8
 
 End-to-end pipeline for Twitter/X listening about Walmart:  
